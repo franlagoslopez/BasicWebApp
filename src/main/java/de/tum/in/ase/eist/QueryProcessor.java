@@ -14,7 +14,7 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
            return "MyTeam";
         } else { // TODO extend the programm here
-            return "Chile es un país largo y bonito :)";
+            return "Chile es un pais largo y bonito :)";
         }
     }
 }
