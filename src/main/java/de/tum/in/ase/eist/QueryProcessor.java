@@ -34,7 +34,7 @@ public class QueryProcessor {
                 try{
                     int number= Integer.parseInt(word);
                     if(number>largest){
-                        largest = largest;
+                        largest = number;
                     }
                 }catch(Exception e){
                     //
